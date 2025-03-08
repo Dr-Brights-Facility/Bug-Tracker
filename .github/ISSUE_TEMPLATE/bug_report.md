@@ -13,15 +13,14 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior if able:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Do `xyz`
+3. Observe bug
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots or links to video clips to help explain your problem.
+If applicable, add screenshots or links to video clips to help explain your problem. You can copy and paste images on your clipboard directly into this editor, or you can paste links to images / videos here.
 
 **Server and time**
 - What server you were on
