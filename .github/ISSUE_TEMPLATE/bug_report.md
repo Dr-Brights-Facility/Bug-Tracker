@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'Bug'
-projects: ['Dr-Brights-Facility/11']
+projects: ['11']
 
 ---
 
