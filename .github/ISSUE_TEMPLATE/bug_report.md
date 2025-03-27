@@ -5,6 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'Bug'
+project: 'Public Bug Tracker'
 
 ---
 
