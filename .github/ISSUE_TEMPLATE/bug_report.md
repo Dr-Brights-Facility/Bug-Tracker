@@ -4,6 +4,7 @@ about: Report bugs or issues with one of our plugins
 title: ''
 labels: ''
 assignees: ''
+type: 'Bug'
 
 ---
 
